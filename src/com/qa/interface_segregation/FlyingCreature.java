@@ -1,0 +1,5 @@
+package com.qa.interface_segregation;
+
+public interface FlyingCreature {
+	public void fly();
+}
